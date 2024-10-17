@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginForm/1.0.0": {
+        "dependencies": {
+          "LobbyForm": "1.0.0",
+          "RegistrationForm": "1.0.0"
+        },
+        "runtime": {
+          "LoginForm.dll": {}
+        }
+      },
+      "LobbyForm/1.0.0": {
+        "runtime": {
+          "LobbyForm.dll": {}
+        }
+      },
+      "RegistrationForm/1.0.0": {
+        "runtime": {
+          "RegistrationForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LobbyForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistrationForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

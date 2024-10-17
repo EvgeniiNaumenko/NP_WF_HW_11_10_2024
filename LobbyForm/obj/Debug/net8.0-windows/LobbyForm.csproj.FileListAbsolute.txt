@@ -1,0 +1,16 @@
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\bin\Debug\net8.0-windows\LobbyForm.exe
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\bin\Debug\net8.0-windows\LobbyForm.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\bin\Debug\net8.0-windows\LobbyForm.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\bin\Debug\net8.0-windows\LobbyForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\bin\Debug\net8.0-windows\LobbyForm.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.Lobby.resources
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.csproj.GenerateResource.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\refint\LobbyForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\LobbyForm.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\LobbyForm\obj\Debug\net8.0-windows\ref\LobbyForm.dll

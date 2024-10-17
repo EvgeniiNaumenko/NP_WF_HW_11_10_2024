@@ -1,0 +1,17 @@
+[
+  {
+    "Login": "admin",
+    "Password": "admin",
+    "Email": "admin@admin.com"
+  },
+  {
+    "Login": "admin",
+    "Password": "admin123",
+    "Email": "admin@admin.com"
+  },
+  {
+    "Login": "frest",
+    "Password": "1234",
+    "Email": "frest@mail.com"
+  }
+]

@@ -1,0 +1,16 @@
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.exe
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.Registr.resources
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.GenerateResource.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\refint\RegistrationForm.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\ServerProg\WinFormsApp1_HP_HW_11_10_2024\RegistrationForm\obj\Debug\net8.0-windows\ref\RegistrationForm.dll
